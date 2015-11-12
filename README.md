@@ -1,2 +1,1 @@
-# coursera-mining
-# getdata-034 
+getdata-034 
